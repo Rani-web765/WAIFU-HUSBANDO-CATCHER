@@ -2,7 +2,7 @@
 
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vikas-851/WAIFU-HUSBANDO-CATCHER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Rani-web765/WAIFU-HUSBANDO-CATCHER)
 
 ---
 
